@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mndla.com/sitemap.xml
